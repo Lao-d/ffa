@@ -1,0 +1,9 @@
+protection-radius: 5.0
+
+database:
+  host-name: "127.0.0.1"
+  database: "FFA"
+  user-name: "newuser"
+  password: "password"
+  port: 3306
+

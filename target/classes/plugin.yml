@@ -1,0 +1,9 @@
+name: purplez-ffa
+version: 1.0.0
+authors:
+  - sencepvp
+main: net.purplez.ffa.PurplezFFA
+
+commands:
+  setspawn:
+    permission: builduhcffa.setspawn
